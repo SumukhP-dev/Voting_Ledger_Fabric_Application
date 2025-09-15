@@ -1,4 +1,4 @@
-## Voting Ledger Based System
+# Voting Ledger Based System
 
 # Summary
 
@@ -27,3 +27,4 @@ npm start vote={name}
 
 Get all votes:
 npm start getAllVotes=true
+
