@@ -1,14 +1,14 @@
 # Voting Ledger Based System
 
-# Summary
+## Summary
 
 This is a codebase about building ontop of the Fabric Application codebase and creating a system to track votes on a ledger based system.
 
-# Prerequistes
+## Prerequistes
 
 Go to https://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html and go through the installation guidelines to install the relevant software required to run the project codebase. Then install Node.js and the Go programming language.
 
-# Further instructions
+## Further instructions
 
 Follow the instructions to start channels, etc
 https://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
@@ -27,4 +27,5 @@ npm start vote={name}
 
 Get all votes:
 npm start getAllVotes=true
+
 
