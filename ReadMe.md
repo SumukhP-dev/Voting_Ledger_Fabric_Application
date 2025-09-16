@@ -1,4 +1,4 @@
-# Voting Ledger Based System
+# Voting Ledger Fabric Application
 
 ## Summary
 
@@ -27,5 +27,6 @@ npm start vote={name}
 
 Get all votes:
 npm start getAllVotes=true
+
 
 
