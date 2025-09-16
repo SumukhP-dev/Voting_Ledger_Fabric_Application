@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a codebase about building ontop of the Fabric Application codebase and creating a system to track votes on a ledger based system.
+This is a codebase is about creating a system to track votes on a ledger based system.
 
 ## Prerequistes
 
@@ -27,6 +27,7 @@ npm start vote={name}
 
 Get all votes:
 npm start getAllVotes=true
+
 
 
 
